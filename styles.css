@@ -563,6 +563,87 @@ h3 {
   display: block;
 }
 
+.audio-turquesa {
+  display: grid;
+  gap: 26px;
+}
+
+.audio-turquesa-header {
+  display: grid;
+  grid-template-columns: 1fr minmax(220px, 380px);
+  gap: 28px;
+  align-items: center;
+}
+
+.audio-turquesa-header p {
+  max-width: 680px;
+  color: var(--muted);
+}
+
+.audio-turquesa-logo {
+  width: 100%;
+  height: auto;
+  padding: 16px;
+  border-radius: 8px;
+  background: var(--white);
+  box-shadow: var(--shadow);
+}
+
+.equipment-table-wrap {
+  overflow-x: auto;
+  border-radius: 8px;
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.95)),
+    url("assets/audio_turquesa_logo.png") center / 520px auto no-repeat;
+  box-shadow: var(--shadow);
+}
+
+.equipment-table {
+  width: 100%;
+  min-width: 620px;
+  border-collapse: collapse;
+  color: var(--ink);
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.equipment-table caption {
+  padding: 18px 18px 10px;
+  color: var(--ink);
+  font-weight: 900;
+  text-align: left;
+}
+
+.equipment-table th,
+.equipment-table td {
+  width: 50%;
+  padding: 10px 16px;
+  border: 1px solid rgba(27, 19, 40, 0.18);
+  text-align: left;
+}
+
+.equipment-table th {
+  color: var(--white);
+  background: linear-gradient(135deg, #082133, #12cfc4);
+  font-size: 0.88rem;
+  text-transform: uppercase;
+}
+
+.equipment-table tbody tr:nth-child(even) {
+  background: rgba(24, 199, 184, 0.08);
+}
+
+.equipment-notes {
+  display: grid;
+  gap: 6px;
+  max-width: 940px;
+}
+
+.equipment-notes p {
+  margin: 0;
+  color: #8b8491;
+  font-size: 0.78rem;
+}
+
 .mexitaly {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -653,6 +734,7 @@ h3 {
   .intro-grid,
   .services-grid,
   .radio-section,
+  .audio-turquesa-header,
   .mexitaly {
     grid-template-columns: 1fr;
   }
