@@ -1,21 +1,21 @@
 # ETHAN DJ mockup
 
-Mockup estatico para promover los servicios de ETHAN DJ:
+Mockup estático para promover los servicios de ETHAN DJ:
 
-- Sonido profesional por horas, minimo 3 horas.
+- Sonido profesional por horas, mínimo 3 horas.
 - Eventos sociales y presentaciones de grupos musicales.
-- Galeria de fotos por categoria.
+- Galería de fotos por categoría.
 - Carrusel de videos desplegable.
-- Seccion ETHAN DJ RADIO con SoundCloud embebido.
-- Seccion Mexitaly en Villa de Arista, San Luis Potosi.
-- Boton directo a WhatsApp: http://wa.me/4444301614.
+- Sección ETHAN DJ RADIO con SoundCloud embebido.
+- Sección Mexitaly en Villa de Arista, San Luis Potosí.
+- Botón directo a WhatsApp: http://wa.me/4444301614.
 
-## Pendientes para produccion
+## Pendientes para producción
 
 Reemplazar los placeholders por materiales reales:
 
-- Fotos reales de eventos por categoria.
+- Fotos reales de eventos por categoría.
 - Videos reales del ambiente de ETHAN DJ.
 - Link oficial de SoundCloud, playlist o tracks de ETHAN DJ.
-- Ligas oficiales de Mexitaly: sitio, Facebook, Instagram y ubicacion.
-- Logo o identidad grafica final de ETHAN DJ.
+- Ligas oficiales de Mexitaly: sitio, Facebook, Instagram y ubicación.
+- Logo o identidad gráfica final de ETHAN DJ.
