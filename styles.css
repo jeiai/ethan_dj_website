@@ -190,6 +190,16 @@ h1 {
   letter-spacing: 0;
 }
 
+.hero-logo {
+  width: min(520px, 86vw);
+  height: auto;
+  margin: 0 0 22px;
+  padding: clamp(12px, 2vw, 18px);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 22px 60px rgba(0, 0, 0, 0.24);
+}
+
 h2 {
   max-width: 790px;
   margin-bottom: 0;
